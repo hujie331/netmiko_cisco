@@ -1,0 +1,122 @@
+[
+    {
+        "ip": "sv4-2210-202-wan-asr1k2-1",
+        "device_type": "cisco_xe"
+    },
+    {
+        "ip": "sv4-2210-302-wan-asr1k2-2",
+        "device_type": "cisco_xe"
+    },
+    {
+        "ip": "sv4-2210-202-oob-c3650ss-1",
+        "device_type": "cisco_xe"
+    },
+    {
+        "ip": "sv4-2210-302-wan-c3650ss-1",
+        "device_type": "cisco_xe"
+    },
+    {
+        "ip": "sv4-2210-102-tor-c3650ss",
+        "device_type": "cisco_xe"
+    },
+    {
+        "ip": "sv4-2210-103-tor-c3650ss",
+        "device_type": "cisco_xe"
+    },
+    {
+        "ip": "sv4-2210-104-tor-c3650ss",
+        "device_type": "cisco_xe"
+    },
+    {
+        "ip": "sv4-2210-105-tor-c3650ss",
+        "device_type": "cisco_xe"
+    },
+    {
+        "ip": "sv4-2210-305-tor-c3650ss",
+        "device_type": "cisco_xe"
+    },
+    {
+        "ip": "sv4-2210-105-oob-c3650",
+        "device_type": "cisco_xe"
+    },
+    {
+        "ip": "sv4-2210-203-oob-c3650",
+        "device_type": "cisco_xe"
+    },
+    {
+        "ip": "sv4-2210-204-oob-c3650",
+        "device_type": "cisco_xe"
+    },
+    {
+        "ip": "sv4-2210-205-oob-c3650",
+        "device_type": "cisco_xe"
+    },
+    {
+        "ip": "sv4-2210-206-oob-c3650",
+        "device_type": "cisco_xe"
+    },
+    {
+        "ip": "sv4-2210-305-oob-c3650",
+        "device_type": "cisco_xe"
+    },
+    {
+        "ip": "sv4-2210-401-oob-c3650",
+        "device_type": "cisco_xe"
+    },
+    {
+        "ip": "sv4-2210-202-core-nx9k-1",
+        "device_type": "cisco_nxos"
+    },
+    {
+        "ip": "sv4-2210-302-core-nx9k-2",
+        "device_type": "cisco_nxos"
+    },
+    {
+        "ip": "sv4-2210-202-wan-nx9k-1",
+        "device_type": "cisco_nxos"
+    },
+    {
+        "ip": "sv4-2210-302-wan-nx9k-2",
+        "device_type": "cisco_nxos"
+    },
+    {
+        "ip": "sv4-2210-203-tor-nx9k-1",
+        "device_type": "cisco_nxos"
+    },
+    {
+        "ip": "sv4-2210-203-tor-nx9k-2",
+        "device_type": "cisco_nxos"
+    },
+    {
+        "ip": "sv4-2210-204-tor-nx9k-1",
+        "device_type": "cisco_nxos"
+    },
+    {
+        "ip": "sv4-2210-204-tor-nx9k-2",
+        "device_type": "cisco_nxos"
+    },
+    {
+        "ip": "sv4-2210-205-tor-nx9k-1",
+        "device_type": "cisco_nxos"
+    },
+    {
+        "ip": "sv4-2210-205-tor-nx9k-2",
+        "device_type": "cisco_nxos"
+    },
+    {
+        "ip": "sv4-2210-206-tor-nx9k-1",
+        "device_type": "cisco_nxos"
+    },
+    {
+        "ip": "sv4-2210-206-tor-nx9k-2",
+        "device_type": "cisco_nxos"
+    },
+    {
+        "ip": "sv4-2210-401-tor-nx9k-1",
+        "device_type": "cisco_nxos"
+    },
+    {
+        "ip": "sv4-2210-401-tor-nx9k-2",
+        "device_type": "cisco_nxos"
+    }
+]

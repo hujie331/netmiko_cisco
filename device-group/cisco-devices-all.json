@@ -1,0 +1,495 @@
+[
+    {
+        "ip": "lab-wan-isr4431-1",
+        "device_type": "cisco_xe"
+    },
+    {
+        "ip": "lab-wan-isr4431-2",
+        "device_type": "cisco_xe"
+    },
+    {
+        "ip": "lab-wan-c3650-1",
+        "device_type": "cisco_xe"
+    },
+    {
+        "ip": "lab-wan-c3650-2",
+        "device_type": "cisco_xe"
+    },
+    {
+        "ip": "lab-lan-c3850ss-1",
+        "device_type": "cisco_xe"
+    },
+    {
+        "ip": "aus-wan-isr4431-1",
+        "device_type": "cisco_xe"
+    },
+    {
+        "ip": "aus-wan-isr4431-2",
+        "device_type": "cisco_xe"
+    },
+    {
+        "ip": "aus-lan-c3850ss-1",
+        "device_type": "cisco_xe"
+    },
+    {
+        "ip": "aus-wan-c3650-1",
+        "device_type": "cisco_xe"
+    },
+    {
+        "ip": "aus-wan-c3650-2",
+        "device_type": "cisco_xe"
+    },
+    {
+        "ip": "sv4-2210-202-wan-asr1k2-1",
+        "device_type": "cisco_xe"
+    },
+    {
+        "ip": "sv4-2210-302-wan-asr1k2-2",
+        "device_type": "cisco_xe"
+    },
+    {
+        "ip": "sv4-2210-202-oob-c3650ss-1",
+        "device_type": "cisco_xe"
+    },
+    {
+        "ip": "sv4-2210-302-wan-c3650ss-1",
+        "device_type": "cisco_xe"
+    },
+    {
+        "ip": "sv4-2210-102-tor-c3650ss",
+        "device_type": "cisco_xe"
+    },
+    {
+        "ip": "sv4-2210-103-tor-c3650ss",
+        "device_type": "cisco_xe"
+    },
+    {
+        "ip": "sv4-2210-104-tor-c3650ss",
+        "device_type": "cisco_xe"
+    },
+    {
+        "ip": "sv4-2210-105-tor-c3650ss",
+        "device_type": "cisco_xe"
+    },
+    {
+        "ip": "sv4-2210-305-tor-c3650ss",
+        "device_type": "cisco_xe"
+    },
+    {
+        "ip": "sv4-2210-105-oob-c3650",
+        "device_type": "cisco_xe"
+    },
+    {
+        "ip": "sv4-2210-203-oob-c3650",
+        "device_type": "cisco_xe"
+    },
+    {
+        "ip": "sv4-2210-204-oob-c3650",
+        "device_type": "cisco_xe"
+    },
+    {
+        "ip": "sv4-2210-205-oob-c3650",
+        "device_type": "cisco_xe"
+    },
+    {
+        "ip": "sv4-2210-206-oob-c3650",
+        "device_type": "cisco_xe"
+    },
+    {
+        "ip": "sv4-2210-305-oob-c3650",
+        "device_type": "cisco_xe"
+    },
+    {
+        "ip": "sv4-2210-401-oob-c3650",
+        "device_type": "cisco_xe"
+    },
+    {
+        "ip": "sv4-2210-202-core-nx9k-1",
+        "device_type": "cisco_nxos"
+    },
+    {
+        "ip": "sv4-2210-302-core-nx9k-2",
+        "device_type": "cisco_nxos"
+    },
+    {
+        "ip": "sv4-2210-202-wan-nx9k-1",
+        "device_type": "cisco_nxos"
+    },
+    {
+        "ip": "sv4-2210-302-wan-nx9k-2",
+        "device_type": "cisco_nxos"
+    },
+    {
+        "ip": "sv4-2210-203-tor-nx9k-1",
+        "device_type": "cisco_nxos"
+    },
+    {
+        "ip": "sv4-2210-203-tor-nx9k-2",
+        "device_type": "cisco_nxos"
+    },
+    {
+        "ip": "sv4-2210-204-tor-nx9k-1",
+        "device_type": "cisco_nxos"
+    },
+    {
+        "ip": "sv4-2210-204-tor-nx9k-2",
+        "device_type": "cisco_nxos"
+    },
+    {
+        "ip": "sv4-2210-205-tor-nx9k-1",
+        "device_type": "cisco_nxos"
+    },
+    {
+        "ip": "sv4-2210-205-tor-nx9k-2",
+        "device_type": "cisco_nxos"
+    },
+    {
+        "ip": "sv4-2210-206-tor-nx9k-1",
+        "device_type": "cisco_nxos"
+    },
+    {
+        "ip": "sv4-2210-206-tor-nx9k-2",
+        "device_type": "cisco_nxos"
+    },
+    {
+        "ip": "sv4-2210-401-tor-nx9k-1",
+        "device_type": "cisco_nxos"
+    },
+    {
+        "ip": "sv4-2210-401-tor-nx9k-2",
+        "device_type": "cisco_nxos"
+    },
+    {
+        "ip": "sfo-699-4d17-204-wan-asr1k1-1",
+        "device_type": "cisco_xe"
+    },
+    {
+        "ip": "sfo-699-4d17-205-wan-asr1k1-2",
+        "device_type": "cisco_xe"
+    },
+    {
+        "ip": "sfo-699-4d17-204-core-nx9k-1",
+        "device_type": "cisco_nxos"
+    },
+    {
+        "ip": "sfo-699-4d17-205-core-nx9k-2",
+        "device_type": "cisco_nxos"
+    },
+    {
+        "ip": "sfo-699-4d17-204-wan-c3650-1",
+        "device_type": "cisco_xe"
+    },
+    {
+        "ip": "sfo-699-4d17-205-wan-c3650-2",
+        "device_type": "cisco_xe"
+    },
+    {
+        "ip": "sfo-699-4d17-204-lan-c3650",
+        "device_type": "cisco_xe"
+    },
+    {
+        "ip": "sfo-699-4d17-205-lan-c3650",
+        "device_type": "cisco_xe"
+    },
+    {
+        "ip": "sfo-699-4d17-104-tor-nx9k-1",
+        "device_type": "cisco_nxos"
+    },
+    {
+        "ip": "sfo-699-4d17-104-tor-nx9k-2",
+        "device_type": "cisco_nxos"
+    },
+    {
+        "ip": "sfo-699-4d17-105-tor-c3650ss",
+        "device_type": "cisco_xe"
+    },
+    {
+        "ip": "sfo-699-4d17-105-oob-c3650",
+        "device_type": "cisco_xe"
+    },
+    {
+        "ip": "sfo-699-4d17-104-oob-c3650",
+        "device_type": "cisco_xe"
+    },
+    {
+        "ip": "sfo-699-dock-lan-c3850ss-1",
+        "device_type": "cisco_xe"
+    },
+    {
+        "ip": "sfo-699-cc66-lan-c3850ss-1",
+        "device_type": "cisco_xe"
+    },
+    {
+        "ip": "sfo-699-cc66-lan-c3850ss-2",
+        "device_type": "cisco_xe"
+    },
+    {
+        "ip": "sfo-699-cc41-lan-c3850ss-1",
+        "device_type": "cisco_xe"
+    },
+    {
+        "ip": "sfo-699-cc41-lan-c3850ss-2",
+        "device_type": "cisco_xe"
+    },
+    {
+        "ip": "sfo-699-S112-lan-c3850ss-1",
+        "device_type": "cisco_xe"
+    },
+    {
+        "ip": "sfo-699-2c04-lan-c3850ss-1",
+        "device_type": "cisco_xe"
+    },
+    {
+        "ip": "sfo-699-2d04-lan-c3850ss-1",
+        "device_type": "cisco_xe"
+    },
+    {
+        "ip": "sfo-699-3c09-lan-c3850ss-1",
+        "device_type": "cisco_xe"
+    },
+    {
+        "ip": "sfo-699-3c09-lan-c3850ss-2",
+        "device_type": "cisco_xe"
+    },
+    {
+        "ip": "sfo-699-3d11-lan-c3850ss-1",
+        "device_type": "cisco_xe"
+    },
+    {
+        "ip": "sfo-699-4c30-lan-c3850ss-1",
+        "device_type": "cisco_xe"
+    },
+    {
+        "ip": "sfo-699-4c30-lan-c3850ss-2",
+        "device_type": "cisco_xe"
+    },
+    {
+        "ip": "sfo-699-5c09-lan-c3850ss-1",
+        "device_type": "cisco_xe"
+    },
+    {
+        "ip": "sfo-699-5d05-lan-c3850ss-1",
+        "device_type": "cisco_xe"
+    },
+    {
+        "ip": "sfo-699-5d05-lan-c3850ss-2",
+        "device_type": "cisco_xe"
+    },
+    {
+        "ip": "sfo-699-6c14-lan-c3850ss-1",
+        "device_type": "cisco_xe"
+    },
+    {
+        "ip": "sfo-699-6c14-lan-c3850ss-2",
+        "device_type": "cisco_xe"
+    },
+    {
+        "ip": "sfo-699-6d08-lan-c3850ss-1",
+        "device_type": "cisco_xe"
+    },
+    {
+        "ip": "sfo-699-6d08-lan-c3850ss-2",
+        "device_type": "cisco_xe"
+    },
+    {
+        "ip": "sfo-699-4d17-101-lan-c3850ss-1",
+        "device_type": "cisco_xe"
+    },
+    {
+        "ip": "car-wan-isr4431-1",
+        "device_type": "cisco_xe"
+    },
+    {
+        "ip": "car-wan-isr4431-2",
+        "device_type": "cisco_xe"
+    },
+    {
+        "ip": "car-wan-c3650-1",
+        "device_type": "cisco_xe"
+    },
+    {
+        "ip": "car-wan-c3650-2",
+        "device_type": "cisco_xe"
+    },
+    {
+        "ip": "car-lan-c3850ss-1",
+        "device_type": "cisco_xe"
+    },
+    {
+        "ip": "eug-wan-isr4431-1",
+        "device_type": "cisco_xe"
+    },
+    {
+        "ip": "eug-lan-c3850ss-1",
+        "device_type": "cisco_xe"
+    },
+    {
+        "ip": "eug-wan-c3650-1",
+        "device_type": "cisco_xe"
+    },
+    {
+        "ip": "eug-wan-c3650-2",
+        "device_type": "cisco_xe"
+    },
+    {
+        "ip": "chi-wan-isr4431-1",
+        "device_type": "cisco_xe"
+    },
+    {
+        "ip": "chi-wan-isr4431-2",
+        "device_type": "cisco_xe"
+    },
+    {
+        "ip": "chi-lan-c3850ss-1",
+        "device_type": "cisco_xe"
+    },
+    {
+        "ip": "chi-wan-c3650-1",
+        "device_type": "cisco_xe"
+    },
+    {
+        "ip": "chi-wan-c3650-2",
+        "device_type": "cisco_xe"
+    },
+    {
+        "ip": "egv-wan-isr4431-1",
+        "device_type": "cisco_xe"
+    },
+    {
+        "ip": "egv-wan-isr4431-2",
+        "device_type": "cisco_xe"
+    },
+    {
+        "ip": "som-wan-isr4431-1",
+        "device_type": "cisco_xe"
+    },
+    {
+        "ip": "som-wan-isr4431-2",
+        "device_type": "cisco_xe"
+    },
+    {
+        "ip": "tor-wan-isr4431-1",
+        "device_type": "cisco_xe"
+    },
+    {
+        "ip": "tor-wan-isr4431-2",
+        "device_type": "cisco_xe"
+    },
+    {
+        "ip": "tor-lan-c3850ss-1",
+        "device_type": "cisco_xe"
+    },
+    {
+        "ip": "tor-lan-c3850ss-2",
+        "device_type": "cisco_xe"
+    },
+    {
+        "ip": "tor-wan-c3650-1",
+        "device_type": "cisco_xe"
+    },
+    {
+        "ip": "tor-wan-c3650-2",
+        "device_type": "cisco_xe"
+    },
+    {
+        "ip": "blr-wan-isr4431-1",
+        "device_type": "cisco_xe"
+    },
+    {
+        "ip": "blr-wan-isr4431-2",
+        "device_type": "cisco_xe"
+    },
+    {
+        "ip": "blr-lan-c3850ss-1",
+        "device_type": "cisco_xe"
+    },
+    {
+        "ip": "blr-lan-c3850ss-2",
+        "device_type": "cisco_xe"
+    },
+    {
+        "ip": "blr-lan-c3850ss-3",
+        "device_type": "cisco_xe"
+    },
+    {
+        "ip": "blr-lan-c3850ss-4",
+        "device_type": "cisco_xe"
+    },
+    {
+        "ip": "blr-wan-c3650-1",
+        "device_type": "cisco_xe"
+    },
+    {
+        "ip": "blr-wan-c3650-2",
+        "device_type": "cisco_xe"
+    },
+    {
+        "ip": "lon-wan-asr1k1-1",
+        "device_type": "cisco_xe"
+    },
+    {
+        "ip": "lon-wan-asr1k1-2",
+        "device_type": "cisco_xe"
+    },
+    {
+        "ip": "lon-lan-c3850ss-1",
+        "device_type": "cisco_xe"
+    },
+    {
+        "ip": "lon-lan-c3850ss-2",
+        "device_type": "cisco_xe"
+    },
+    {
+        "ip": "lon-wan-c3650-1",
+        "device_type": "cisco_xe"
+    },
+    {
+        "ip": "lon-wan-c3650-2",
+        "device_type": "cisco_xe"
+    },
+    {
+        "ip": "bri-wan-isr4431-1",
+        "device_type": "cisco_xe"
+    },
+    {
+        "ip": "bri-wan-isr4431-2",
+        "device_type": "cisco_xe"
+    },
+    {
+        "ip": "bri-lan-c3850ss-1",
+        "device_type": "cisco_xe"
+    },
+    {
+        "ip": "bri-wan-c3650-1",
+        "device_type": "cisco_xe"
+    },
+    {
+        "ip": "bri-wan-c3650-2",
+        "device_type": "cisco_xe"
+    },
+    {
+        "ip": "nyc-wan-isr4331",
+        "device_type": "cisco_xe"
+    },
+    {
+        "ip": "nyc-lan-C3850ss",
+        "device_type": "cisco_xe"
+    },
+    {
+        "ip": "nyc-wan-smx24p",
+        "device_type": "cisco_ios"
+    },
+    {
+        "ip": "cvr-wan-isr4331",
+        "device_type": "cisco_xe"
+    },
+    {
+        "ip": "cvr-lan-c3850ss",
+        "device_type": "cisco_xe"
+    },
+    {
+        "ip": "cvr-wan-smx24p",
+        "device_type": "cisco_ios"
+    }
+]
+

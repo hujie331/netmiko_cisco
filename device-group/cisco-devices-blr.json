@@ -1,0 +1,34 @@
+[
+    {
+        "ip": "blr-wan-isr4431-1",
+        "device_type": "cisco_xe"
+    },
+    {
+        "ip": "blr-wan-isr4431-2",
+        "device_type": "cisco_xe"
+    },
+    {
+        "ip": "blr-lan-c3850ss-1",
+        "device_type": "cisco_xe"
+    },
+    {
+        "ip": "blr-lan-c3850ss-2",
+        "device_type": "cisco_xe"
+    },
+    {
+        "ip": "blr-lan-c3850ss-3",
+        "device_type": "cisco_xe"
+    },
+    {
+        "ip": "blr-lan-c3850ss-4",
+        "device_type": "cisco_xe"
+    },
+    {
+        "ip": "blr-wan-c3650-1",
+        "device_type": "cisco_xe"
+    },
+    {
+        "ip": "blr-wan-c3650-2",
+        "device_type": "cisco_xe"
+    }
+]

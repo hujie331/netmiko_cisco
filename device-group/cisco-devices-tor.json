@@ -1,0 +1,26 @@
+[
+    {
+        "ip": "tor-wan-isr4431-1",
+        "device_type": "cisco_xe"
+    },
+    {
+        "ip": "tor-wan-isr4431-2",
+        "device_type": "cisco_xe"
+    },
+    {
+        "ip": "tor-lan-c3850ss-1",
+        "device_type": "cisco_xe"
+    },
+    {
+        "ip": "tor-lan-c3850ss-2",
+        "device_type": "cisco_xe"
+    },
+    {
+        "ip": "tor-wan-c3650-1",
+        "device_type": "cisco_xe"
+    },
+    {
+        "ip": "tor-wan-c3650-2",
+        "device_type": "cisco_xe"
+    }
+]

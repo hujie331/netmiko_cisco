@@ -1,0 +1,18 @@
+[
+    {
+        "ip": "eug-wan-isr4431-1",
+        "device_type": "cisco_xe"
+    },
+    {
+        "ip": "eug-lan-c3850ss-1",
+        "device_type": "cisco_xe"
+    },
+    {
+        "ip": "eug-wan-c3650-1",
+        "device_type": "cisco_xe"
+    },
+    {
+        "ip": "eug-wan-c3650-2",
+        "device_type": "cisco_xe"
+    }
+]

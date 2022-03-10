@@ -1,0 +1,14 @@
+[
+    {
+        "ip": "nyc-wan-isr4331",
+        "device_type": "cisco_xe"
+    },
+    {
+        "ip": "nyc-lan-C3850ss",
+        "device_type": "cisco_xe"
+    },
+    {
+        "ip": "nyc-wan-smx24p",
+        "device_type": "cisco_ios"
+    }
+]

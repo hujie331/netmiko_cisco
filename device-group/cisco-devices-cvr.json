@@ -1,0 +1,14 @@
+[
+    {
+        "ip": "cvr-wan-isr4331",
+        "device_type": "cisco_xe"
+    },
+    {
+        "ip": "cvr-lan-c3850ss",
+        "device_type": "cisco_xe"
+    },
+    {
+        "ip": "cvr-wan-smx24p",
+        "device_type": "cisco_ios"
+    }
+]
